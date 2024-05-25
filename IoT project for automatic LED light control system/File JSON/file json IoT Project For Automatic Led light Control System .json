@@ -1,0 +1,14 @@
+{
+    "led": [
+        {
+            "namaLed": "Merah",
+            "waktuNyala": "10.00",
+            "durasi": 30
+        },
+        {
+            "namaLed": "Hijau",
+            "waktuNyala": "10.30",
+            "durasi": 30
+        }
+    ]
+}
